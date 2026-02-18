@@ -13,6 +13,10 @@ This repository summarizes my research, coursework projects, and publications in
 •	Conducted mechanical and electrical safety reviews for ground-mounted PV installations.
 •	Compared the financial and technical feasibility of floating vs. ground PV installations using SAM and PVSyst.
 
+3) Research Intern – EECONE Project: European ECOsystem for Green Electronics Grenoble Institute of Technology, Grenoble, France- Feb – May 2024
+•	Contributed to CO2 emissions reduction initiatives through green electronics methodologies, supporting the 6R concept in sustainable design.
+•	Collaborated with cross-functional teams to address e-waste management and align project goals with the Green Deal and Circular Economy Action Plan.
+
 ## 📚 Coursework Projects
 1) Modeling and Power-Flow Analysis of a Solar-Integrated Three-Phase Network (EECE 450 Project)
 2) Sensor Anomaly Detection and Forecasting for Operational Visibility (Machine Learning Project: Solar Irradiance)
