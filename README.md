@@ -14,16 +14,19 @@ This repository summarizes my research, coursework projects, and publications in
 •	Compared the financial and technical feasibility of floating vs. ground PV installations using SAM and PVSyst.
 
 ## 📚 Coursework Projects
-1) Power Systems Analysis Project
-2) Manufacturing / Machining Optimization Project
-3) PV System Design & Cost Analysis
+1) Modeling and Power-Flow Analysis of a Solar-Integrated Three-Phase Network (EECE 450 Project)
+2) Sensor Anomaly Detection and Forecasting for Operational Visibility (Machine Learning Project: Solar Irradiance)
+3) PV System Design & Cost Analysis (Residential and commertial)
 
 ## 📄 Publications
 1) Flexible Research Microgrid for Grid Resilience (status: in progress / submitted / published)
 
 ## 🎓 Courses Completed (selected)
-- Power Systems Analysis
-- Energy Management
-- Engineering Statistics
-- Lean Six Sigma / Project Management
-- Solar PV Systems / Microgrids
+
+- Lean Six Sigma 
+- Project Management
+- Util Solar Energy Sys Design
+- Systems Engineering I
+- Practical Engr App Mach Learn
+- Intro Solar Energy Design
+- Data Analysis for Engr Project
