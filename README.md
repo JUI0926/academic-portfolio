@@ -23,7 +23,9 @@ This repository summarizes my research, coursework projects, and publications in
 3) PV System Design & Cost Analysis (Residential and commertial)
 
 ## 📄 Publications
-1) Flexible Research Microgrid for Grid Resilience (status: in progress / submitted / published)
+1)Roy, J., Bentley, R. P., Chambers, T., et al. “Field Development of a Flexible Research Microgrid – What We Learned and Future Roadmap.” IEEE Texas Power and Energy Conference (TPEC) 2026 — Accepted for presentation and publication.
+•	Contributed to documenting field development and commissioning lessons for a hybrid AC/DC research microgrid enabling grid-connected operation and intentional islanding experiments relevant to resilient distribution operation.
+•	Supported description of microgrid architecture and DER integration (PV, solar thermal, gas generation, BESS, EV charging) and ETAP digital-twin–driven supervisory control, framing monitoring and control validation in terms of operational visibility and controllability.
 
 ## 🎓 Courses Completed (selected)
 
