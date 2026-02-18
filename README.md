@@ -28,7 +28,7 @@ This repository summarizes my research, coursework projects, and publications in
 •	Contributed to documenting field development and commissioning lessons for a hybrid AC/DC research microgrid enabling grid-connected operation and intentional islanding experiments relevant to resilient distribution operation.
 •	Supported description of microgrid architecture and DER integration (PV, solar thermal, gas generation, BESS, EV charging) and ETAP digital-twin–driven supervisory control, framing monitoring and control validation in terms of operational visibility and controllability.
 
-## 🎓 Courses Completed (selected)
+## 🎓 Courses Completed
 
 - Lean Six Sigma 
 - Project Management
