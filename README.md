@@ -8,15 +8,15 @@ This repository summarizes my research, coursework projects, and publications in
 •	Performed techno-economic assessment (LCOE, payback period, energy offset) and validated electrical and structural compliance per NEC/ASCE.
 •	Recommended integration of battery storage and smart control for future enhancements.
 
-2️⃣ Summer Research Internship – Louisiana Solar Energy Lab  
-3) Summer Research Internship - June-Sept 2024  Louisiana Solar Energy Lab, University of Louisiana at Lafayette
+
+2) Summer Research Internship - June-Sept 2024  Louisiana Solar Energy Lab, University of Louisiana at Lafayette
 •	Supported design and simulation of floating PV systems in Louisiana through site selection and impact analysis.
 •	Conducted mechanical and electrical safety reviews for ground-mounted PV installations.
 •	Compared the financial and technical feasibility of floating vs. ground PV installations using SAM and PVSyst.
 
-📁 [View Internship Details](./internship/summer-internship-2024)
 
-4) Research Intern – EECONE Project: European ECOsystem for Green Electronics Grenoble Institute of Technology, Grenoble, France- Feb – May 2024
+
+3) Research Intern – EECONE Project: European ECOsystem for Green Electronics Grenoble Institute of Technology, Grenoble, France- Feb – May 2024
 •	Contributed to CO2 emissions reduction initiatives through green electronics methodologies, supporting the 6R concept in sustainable design.
 •	Collaborated with cross-functional teams to address e-waste management and align project goals with the Green Deal and Circular Economy Action Plan.
 
