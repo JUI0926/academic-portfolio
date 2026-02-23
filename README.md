@@ -12,7 +12,7 @@ This repository summarizes my research, coursework projects, and publications in
 •	Supported design and simulation of floating PV systems in Louisiana through site selection and impact analysis.
 •	Conducted mechanical and electrical safety reviews for ground-mounted PV installations.
 •	Compared the financial and technical feasibility of floating vs. ground PV installations using SAM and PVSyst.
-### 2️⃣ Summer Research Internship – Louisiana Solar Energy Lab  
+2️⃣ Summer Research Internship – Louisiana Solar Energy Lab  
 📁 [View Internship Details](./internship/summer-internship-2024)
 
 4) Research Intern – EECONE Project: European ECOsystem for Green Electronics Grenoble Institute of Technology, Grenoble, France- Feb – May 2024
