@@ -9,7 +9,7 @@ This repository summarizes my research, coursework projects, and publications in
 •	Recommended integration of battery storage and smart control for future enhancements.
 
 
-2) Summer Research Internship - June-Sept 2024  Louisiana Solar Energy Lab, University of Louisiana at Lafayette
+2) Summer Internship - June-Sept 2024  Louisiana Solar Energy Lab, University of Louisiana at Lafayette
 •	Supported design and simulation of floating PV systems in Louisiana through site selection and impact analysis.
 •	Conducted mechanical and electrical safety reviews for ground-mounted PV installations.
 •	Compared the financial and technical feasibility of floating vs. ground PV installations using SAM and PVSyst.
