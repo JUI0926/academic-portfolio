@@ -1,5 +1,6 @@
 # Final-Year Internship
 
 ## Documents
-- Report will be added here
-- Presentation will be added here
+- 📄 [Master’s Thesis Report](Master's_Thesis_ROY_Jui.pdf)
+- 📊 [Final Presentation](Final presentation.pptx)
+- 🖼️ [Poster](Poster EDITED.pptx)
