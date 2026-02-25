@@ -3,7 +3,7 @@
 This repository summarizes my research, coursework projects, and publications in energy systems, microgrids, and solar engineering.
 
 ## 🔬 Internship 
-1) Final-Year Internship – Feb–Aug 2025, Louisiana Solar Energy Lab, University of Louisiana at Lafayette
+1) 1. [Final-Year Internship – Feb–Aug 2025, Louisiana Solar Energy Lab](internship/final-year-internship)
   Designed and evaluated three grid-tied PV systems (1 commercial, 2 residential) using PVWatts and ASHRAE data
 •	Performed techno-economic assessment (LCOE, payback period, energy offset) and validated electrical and structural compliance per NEC/ASCE.
 •	Recommended integration of battery storage and smart control for future enhancements.
