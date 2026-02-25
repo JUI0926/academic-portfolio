@@ -16,7 +16,7 @@ This repository summarizes my research, coursework projects, and publications in
 
 
 
-3) Research Intern – EECONE Project: European ECOsystem for Green Electronics Grenoble Institute of Technology, Grenoble, France- Feb – May 2024
+3) 3. [Research Intern – EECONE Project, Grenoble Institute of Technology (Feb–May 2024)](internship/internship/research-intern-eecone)
 •	Contributed to CO2 emissions reduction initiatives through green electronics methodologies, supporting the 6R concept in sustainable design.
 •	Collaborated with cross-functional teams to address e-waste management and align project goals with the Green Deal and Circular Economy Action Plan.
 
