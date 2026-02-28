@@ -21,9 +21,9 @@ This repository summarizes my research, coursework projects, and publications in
 •	Collaborated with cross-functional teams to address e-waste management and align project goals with the Green Deal and Circular Economy Action Plan.
 
 ## 📚 Coursework Projects
-1) Modeling and Power-Flow Analysis of a Solar-Integrated Three-Phase Network (EECE 450 Project)
-2) Sensor Anomaly Detection and Forecasting for Operational Visibility (Machine Learning Project: Solar Irradiance)
-3) PV System Design & Cost Analysis (Residential and commertial)
+1. [Modeling and Power-Flow Analysis of a Solar-Integrated Three-Phase Network (EECE 450 Project)](Coursework_Projects/Power_System_Project)
+2. [Sensor Anomaly Detection and Forecasting for Operational Visibility (Machine Learning Project: Solar Irradiance)](Coursework_Projects/Machine_Learning_Project)
+3. [PV System Design & Cost Analysis (Residential and Commercial)](Coursework_Projects/PVDesign_Project)
 
 ## 📄 Publications
 1)Roy, J., Bentley, R. P., Chambers, T., et al. “Field Development of a Flexible Research Microgrid – What We Learned and Future Roadmap.” IEEE Texas Power and Energy Conference (TPEC) 2026 — Accepted for presentation and publication
