@@ -1,6 +1,6 @@
 # Jui Roy — Project Portfolio
 
-This repository summarizes my research, coursework projects, and publications in energy systems, microgrids, and solar engineering.
+This repository showcases the technical projects and engineering experience I have developed through coursework, research, and applied system design. It highlights practical problem solving in power system modeling, microgrid design, PV system evaluation, and machine learning applications. The work presented here demonstrates my ability to carry projects from concept through analysis and documentation.
 
 ## 🔬 Internship 
 1) 1. [Final-Year Internship – Feb–Aug 2025, Louisiana Solar Energy Lab](internship/final-year-internship)
